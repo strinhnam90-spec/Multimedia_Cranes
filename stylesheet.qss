@@ -1,0 +1,62 @@
+/* stylesheet.qss */
+
+/* General window styling */
+QMainWindow, QWidget {
+    background-color: #2E2E2E; /* Dark gray background */
+    color: #FFFFFF; /* White text */
+    font-family: "Segoe UI", "Roboto", "Helvetica Neue", Arial, sans-serif;
+}
+
+/* QPushButton styling */
+QPushButton {
+    background-color: #4A4A4A; /* Medium gray background */
+    color: #FFFFFF; /* White text */
+    border: 1px solid #6E6E6E; /* Gray border */
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+QPushButton:hover {
+    background-color: #5A5A5A; /* Lighter gray on hover */
+}
+
+QPushButton:pressed {
+    background-color: #6A6A6A; /* Even lighter gray when pressed */
+}
+
+/* QLineEdit styling */
+QLineEdit {
+    background-color: #3E3E3E; /* Darker gray background */
+    color: #FFFFFF; /* White text */
+    border: 1px solid #6E6E6E; /* Gray border */
+    padding: 8px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+/* QListWidget styling */
+QListWidget {
+    background-color: #3E3E3E; /* Darker gray background */
+    color: #FFFFFF; /* White text */
+    border: 1px solid #6E6E6E; /* Gray border */
+    border-radius: 4px;
+}
+
+QListWidget::item {
+    padding: 8px;
+}
+
+QListWidget::item:hover {
+    background-color: #4A4A4A; /* Medium gray on hover */
+}
+
+QListWidget::item:selected {
+    background-color: #007ACC; /* Blue for selected items */
+}
+
+/* QLabel styling */
+QLabel {
+    color: #FFFFFF; /* White text */
+    font-size: 14px;
+}

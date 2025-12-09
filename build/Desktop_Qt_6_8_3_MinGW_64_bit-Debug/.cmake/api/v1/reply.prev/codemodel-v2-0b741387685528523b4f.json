@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-a46673e3a87513ead73e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Multimedia_Cranes",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Multimedia_Cranes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Multimedia_Cranes-Debug-67847a2e58eb279d43b7.json",
+					"name" : "Multimedia_Cranes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Multimedia_Cranes_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Multimedia_Cranes_autogen-Debug-1c1145f3f6a014cf523a.json",
+					"name" : "Multimedia_Cranes_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Multimedia_Cranes_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Multimedia_Cranes_autogen_timestamp_deps-Debug-46848be9ce6771b088ff.json",
+					"name" : "Multimedia_Cranes_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug",
+		"source" : "E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

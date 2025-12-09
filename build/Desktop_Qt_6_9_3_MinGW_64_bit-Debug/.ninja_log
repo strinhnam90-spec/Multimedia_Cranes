@@ -1,0 +1,19 @@
+# ninja log v6
+14	2253	7865531457909177	Multimedia_Cranes_autogen/timestamp	16dec5df8b3511ea
+14	2253	7865531457909177	Multimedia_Cranes_autogen/mocs_compilation.cpp	16dec5df8b3511ea
+14	2253	7865531457909177	D:/Automotive/QTProjectcuoiky/Multimedia_Cranes/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/Multimedia_Cranes_autogen/timestamp	16dec5df8b3511ea
+14	2253	7865531457909177	D:/Automotive/QTProjectcuoiky/Multimedia_Cranes/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/Multimedia_Cranes_autogen/mocs_compilation.cpp	16dec5df8b3511ea
+2260	2448	7865531460779177	Multimedia_Cranes_autogen/EWIEGA46WW/qrc_resources.cpp	dee6ca488aef4ddb
+2260	2448	7865531460779177	D:/Automotive/QTProjectcuoiky/Multimedia_Cranes/build/Desktop_Qt_6_9_3_MinGW_64_bit-Debug/Multimedia_Cranes_autogen/EWIEGA46WW/qrc_resources.cpp	dee6ca488aef4ddb
+2505	5767	7865531461449182	CMakeFiles/Multimedia_Cranes.dir/Multimedia_Cranes_autogen/EWIEGA46WW/qrc_resources.cpp.obj	3a0067136b329fae
+2496	5951	7865531461359183	CMakeFiles/Multimedia_Cranes.dir/imagelabel.cpp.obj	cbc921621ad2b8ff
+2482	6193	7865531461229182	CMakeFiles/Multimedia_Cranes.dir/infowidget.cpp.obj	e0947a156046e23e
+2478	6357	7865531461179185	CMakeFiles/Multimedia_Cranes.dir/mapwidget.cpp.obj	f1434fde3765d6da
+2465	6626	7865531461049180	CMakeFiles/Multimedia_Cranes.dir/main.cpp.obj	2e13201748e83d43
+2473	6970	7865531461139186	CMakeFiles/Multimedia_Cranes.dir/videowidget.cpp.obj	391453e4fd9c7ea6
+2491	7188	7865531461309177	CMakeFiles/Multimedia_Cranes.dir/weatherwidget.cpp.obj	139a42441f9abfb2
+2469	7260	7865531461089184	CMakeFiles/Multimedia_Cranes.dir/mainwindow.cpp.obj	d96ce3201cd8e335
+2486	7450	7865531461269179	CMakeFiles/Multimedia_Cranes.dir/newswidget.cpp.obj	49e02be6cd95f8e6
+2448	7598	7865531460879183	CMakeFiles/Multimedia_Cranes.dir/Multimedia_Cranes_autogen/mocs_compilation.cpp.obj	8fd496654a636eb3
+2500	7628	7865531461399182	CMakeFiles/Multimedia_Cranes.dir/audioplayerwidget.cpp.obj	a31e026f9fc494d6
+7629	8051	7865531512689240	Multimedia_Cranes.exe	22814d846d5cc350

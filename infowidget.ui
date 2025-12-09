@@ -1,0 +1,8 @@
+<!-- features/infowidget.ui -->
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>InfoWidget</class>
+ <widget class="QWidget" name="InfoWidget"/>
+ <resources/>
+ <connections/>
+</ui>

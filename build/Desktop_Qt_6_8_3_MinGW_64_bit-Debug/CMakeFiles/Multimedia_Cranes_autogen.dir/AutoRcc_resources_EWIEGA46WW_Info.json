@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/Multimedia_Cranes_autogen",
+	"CMAKE_BINARY_DIR" : "E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes",
+	"CMAKE_SOURCE_DIR" : "E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/Multimedia_Cranes_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes/stylesheet.qss",
+		"E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes/images/vietnam_map.jpg",
+		"E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes/images/autumn.jpg",
+		"E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes/images/winter.webp",
+		"E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes/images/summer.jpg"
+	],
+	"LOCK_FILE" : "E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/Multimedia_Cranes_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.8.3/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes/build/Desktop_Qt_6_8_3_MinGW_64_bit-Debug/CMakeFiles/Multimedia_Cranes_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/PROGRAMMING/FPT_Cranes/Mock_qt/Multimedia/Multimedia_Cranes/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

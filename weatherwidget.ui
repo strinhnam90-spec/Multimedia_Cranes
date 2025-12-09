@@ -1,0 +1,8 @@
+<!-- features/weather/weatherwidget.ui -->
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>WeatherWidget</class>
+ <widget class="QWidget" name="WeatherWidget"/>
+ <resources/>
+ <connections/>
+</ui>
